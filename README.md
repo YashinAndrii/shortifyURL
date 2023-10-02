@@ -18,7 +18,7 @@ You can run the project in Docker containers using Docker Compose. Make sure you
 
 ```bash
 docker-compose up
-
+```
 ## Usage
 
 - To shorten a URL, go to [http://localhost:8080/shortify](http://localhost:8080/shortify) and enter the original URL.
